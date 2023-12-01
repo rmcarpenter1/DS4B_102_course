@@ -132,8 +132,7 @@ calculate_attrition_cost <- function(
     
     return(total_cost)
     
-}
-
+} 
 # Calculate Cost By Job Role ---- 
 
 dept_job_role_tbl %>% 
